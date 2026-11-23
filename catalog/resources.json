@@ -4543,5 +4543,14 @@
     "subcategory_id": "courses-tutorials",
     "website": "https://coddy.tech/landing/solidity",
     "thumbnail_url": "https://github.com/coddytech.png"
+  },
+  {
+    "name": "Indelible.world",
+    "description": "A JavaScript client library, built on viem, for the Indelible Standard and its TAANQ smart contract. It commits and reveals onchain authorship attestations for content identified by its IPFS CID, manages delegation, and verifies CIDs and Merkle-based quote proofs against those attestations. Publishers and verifiers can use it to timestamp articles and check authorship from a webapp, Node.js script or backend service.",
+    "tags": ["sdk", "verification", "merkle-trees"],
+    "subcategory_id": "core-sdks-libraries",
+    "website": "https://indelible.world",
+    "repos": ["https://github.com/indelible-world/indelible-module"],
+    "packages": ["https://www.npmjs.com/package/indelible"]
   }
 ]
